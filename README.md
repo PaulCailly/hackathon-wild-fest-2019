@@ -25,7 +25,7 @@ npm run start
 
 ##### Step 3 - ??
 
-##### Step 4 - Profite
+##### Step 4 - Profit
 
 And show your support by giving a ⭐️ if this project helped you!
 
