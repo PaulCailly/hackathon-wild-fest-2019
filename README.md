@@ -41,4 +41,4 @@ And show your support by giving a ⭐️ if this project helped you!
 -   Sydney De Clerq
 -   Pierre Gorce
 -   Orianne Tanguy
--   Baptiste Arnaudet
+-   [Baptiste Arnaudet](mailto:baptiste.arnaudet@orange.fr)
