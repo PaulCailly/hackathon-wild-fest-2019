@@ -1,7 +1,5 @@
 > 🏆 1st place at Wild Fest 2019 hackathon
 
-## ✨ [Demo](http://bit.ly/30RycRT)
-
 ![mockups](https://raw.githubusercontent.com/paulcailly/hackathon-wild-fest-2019/master/mockups.png)
 
 ## 🚀 Usage
@@ -37,8 +35,8 @@ And show your support by giving a ⭐️ if this project helped you!
 
 ## 👤 Authors
 
--   [Paul Cailly](mailto:paul.cailly@gmail.com)
--   Sydney De Clerq
+-   [Paul Cailly](mailto:pcailly@pm.me)
+-   [Sydney De Clerq](sydneydeclercq@hotmail.com)
 -   Pierre Gorce
 -   Orianne Tanguy
 -   [Baptiste Arnaudet](mailto:baptiste.arnaudet@orange.fr)
